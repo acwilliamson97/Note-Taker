@@ -1,6 +1,6 @@
 # Note-Taker
 
-This application can be used to write, save, and delete notes, and uses an express backend to save and retrieve saved notes to local storage from a JSON file using the fs Node module. 
+This application can be used to write, save, retrieve, and delete notes, and uses local storage as well as an express backend to save data from a JSON file using the fs Node module. 
 
 ![notes1](https://user-images.githubusercontent.com/61606793/85326784-aed27e00-b482-11ea-92cb-31ae199361c8.png)
 
